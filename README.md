@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @londonplayer
-- 👀 I’m interested in chess, coding, music, etc...
-- 🌱 I’m currently learning HTML 5, CSS and JavaScript.
+- 👀 I’m interested in chess, coding, music and a lot of other thing;
+- 🌱 I’m currently learning HTML 5, CSS, JavaScript, C, Python and ReactJS;
 - 💞️ I’m looking to collaborate on anything I have to.
 - 📫 How to reach me: +55 51 995952147
 
